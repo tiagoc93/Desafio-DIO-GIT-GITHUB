@@ -1,6 +1,7 @@
 # Desafio DIO da aula de GIT e GITHUB. 
 
-   ## Este desafio visa medir o dominio da plataforma GITHUB e da ferramenta GIT. A seguir uma breve explanação sobre o README e a ferramenta MD.
+## Este desafio visa medir o dominio da plataforma GITHUB e da ferramenta GIT. 
+### A seguir uma breve explanação sobre o README e a ferramenta MD.
 
 🌟- Com este arquivo **.md** é possivel utilizar uma linguagem analoga ao HTML, porem de forma facilitada.
 
