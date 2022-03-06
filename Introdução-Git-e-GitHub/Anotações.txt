@@ -1,0 +1,31 @@
+
+# Aqui deixarei disponível algumas anotações sobre o GITBash.
+
+- O GitBash é uma ferramenta capaz de manusear as funcionalidades do GIT em uma maquina Windows.
+
+- Ele também dispõe de uma interface gráfica para facilitar o uso da ferramenta.
+
+- Sendo assim, é possivel manipular o GIT tanto pelo terminal, quanto pela interface.
+
+- No linux o GIT se instala com apenas um comando do terminal, porém não dispõe de um "GUI".
+
+- Sendo assim o Git Bash se mostra como a opção mais amigável para pessoas que estão começando a "codar" agora.
+
+- link para o download do Git Bash: https://git-scm.com/download.
+
+
+
+- Foram passados nestas aulas, várias formas de manusear o GIT.
+
+- Porém, as que eu mais utilizei foram as seguintes;
+- cd => para navegar entre as pastas.
+- ls => para listar as pastas
+- git add => para adicionar um projeto.
+- git clone => para clonar um repositório.
+- git push => para empurrar um repositório.
+- git commit -m "mensagem" => para commitar um repositório e relatar as mudanças.
+- Claro, não poderia faltar facilidades e atalhos ensinados pelo professor, que jamais esquecerei.
+- A tecla TAB que ajuda muito a autopreencher o nome de algum arquivo.
+- e a função CTRL-L para limpar a tela e torna-la menos poluída como boas práticas.
+
+- Espero não ter sido prolixo demais em minhas explicações, e ter conseguido sintetizar com relativo sucesso as informações aprendidas em aula.
